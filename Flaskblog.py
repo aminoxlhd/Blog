@@ -10,7 +10,7 @@ posts = [
         'date_posted': 'December 18, 2022'
     },
     {
-        'autor': 'Laheroud amine',
+        'autor': 'Alx amine',
         'title': 'Complet Alx SE',
         'content': 'Second Post Content',
         'date_posted': 'July 22, 2024'
